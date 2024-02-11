@@ -1,1 +1,1 @@
-# “Lab 2 repository”
+# “Lab 8 repository”
